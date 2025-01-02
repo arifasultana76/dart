@@ -1,4 +1,4 @@
-ans 1:
+// ans 1:
 
 void main() {
   print('My name is Arifa.');
@@ -7,7 +7,7 @@ void main() {
       'I am excited to learn dart because i would like to create an App and a website for myself.');
 }
 
-ans 2:
+// ans 2:
 
 void main() {
   String name = "Arifa";
@@ -18,7 +18,7 @@ void main() {
   print("Welcome to Dart programming.");
 }
 
-ans 3:
+// ans 3:
 
 void main() {
   int num1 = 30;
@@ -32,7 +32,7 @@ void main() {
   print(product);
 }
 
-ans 4:
+// ans 4:
 
 void main() {
   double length = 10.5;
